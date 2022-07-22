@@ -43,8 +43,8 @@ echo.
 set /p input=Choose from 1-3
 if %input% == 1 goto :ddos
 if %input% == 2 goto :pcsearch
-if %input% == 2 goto :Obfus
-if %input% == 2 goto :deObfus
+if %input% == 3 goto :Obfus
+if %input% == 4 goto :deObfus
 
 :ddos
 title DDoS
