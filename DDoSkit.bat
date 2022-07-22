@@ -28,7 +28,7 @@ chcp 65001
 setlocal enableDelayedExpansion
 color 2
 cls
-title Nigger
+title DDoSkit
 :main
 echo.
 echo ==========================
