@@ -31,6 +31,7 @@ cls
 title DDoSkit
 :main
 echo.
+echo           1.0
 echo ==========================
 echo.
 echo  [1]. DDoS                  
